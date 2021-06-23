@@ -1,0 +1,15 @@
+.primary{
+    color: orange;
+}
+
+.secondary{
+    color: peru;
+}
+
+.error{
+    color: red;
+}
+
+.xl-font{
+    font-size: 72px;
+}
